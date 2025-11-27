@@ -31,4 +31,4 @@ Gelişmiş kredi, faiz ve vergi hesaplama motoru.
 3. Türkçe karakter desteği (UTF-8) ve renkli terminal arayüzü otomatik yüklenir.
 
 ---
-Geliştirici Murat
+Geliştirici Ömer Murat
