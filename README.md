@@ -1,7 +1,8 @@
 # 🏦 C++ Banking Simulations Suite
 
-![Language](httpsimg.shields.iobadgeLanguage-C%2B%2B-bluestyle=for-the-badge&logo=c%2B%2B)
-![Status](httpsimg.shields.iobadgeStatus-Completed-greenstyle=for-the-badge)
+![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
+![IDE](https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=for-the-badge&logo=visual-studio)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows)
 
 Bu depo, Nesne Yönelimli Programlama (OOP) prensipleri kullanılarak geliştirilmiş iki farklı finansal simülasyon projesini içerir.
 
