@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Banka Hesap Simülasyonu (ATM)/Banka Hesap Simülasyonu (ATM).vcxproj" Id="156cfeea-1e59-49b4-9ca1-c5e0b083bc0d" />
+  <Project Path="kredit bank/kredit bank.vcxproj" Id="e8348883-519c-4e31-8ac3-3a0816d23523" />
+</Solution>
