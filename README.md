@@ -32,7 +32,7 @@ Gelişmiş kredi, faiz ve vergi hesaplama motoru.
 
 Repoyu Klonla:
 ``` bash
-https://github.com/Omer-Murat/Banking-Credit-Suite
+https://github.com/Omer-Murat/Banking-Credit-Suite.git
 ```
 
 ---
