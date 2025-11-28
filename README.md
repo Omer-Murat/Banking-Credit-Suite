@@ -30,5 +30,10 @@ Gelişmiş kredi, faiz ve vergi hesaplama motoru.
 2. `CTRL + F5` ile derleyip çalıştırın.
 3. Türkçe karakter desteği (UTF-8) ve renkli terminal arayüzü otomatik yüklenir.
 
+Repoyu Klonla:
+``` bash
+https://github.com/Omer-Murat/Banking-Credit-Suite
+```
+
 ---
 Geliştirici Ömer Murat
